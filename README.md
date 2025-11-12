@@ -1,19 +1,15 @@
 ```markdown
 # 🚀 Nuclear DDoS Weapon
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Version-6.0-blue" />
-  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS%20%7C%20Termux-success" />
-  <img src="https://img.shields.io/badge/Java-8+-orange" />
-  <img src="https://img.shields.io/badge/License-MIT-green" />
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
-</p>
+![Version](https://img.shields.io/badge/Version-6.0-blue)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS%20%7C%20Termux-success)
+![Java](https://img.shields.io/badge/Java-8+-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-<p align="center">
-  <b>Most Powerful Cross-Platform DDoS Testing Tool</b><br>
-  <b>Created by Ahmad Cyber Prince</b><br>
-  <b>Instagram: @Cyber_ir_Ahmad</b>
-</p>
+**Most Powerful Cross-Platform DDoS Testing Tool**  
+**Created by Ahmad Cyber Prince**  
+**Instagram: @Cyber_ir_Ahmad**
 
 ## ⚡ About The Project
 
@@ -193,27 +189,10 @@ If you discover any security vulnerabilities, please report them responsibly thr
 
 ---
 
-<p align="center">
-  <b>⚡ Nuclear DDoS Weapon - The Ultimate Testing Tool ⚡</b><br>
-  <b>Created with ❤️ by Ahmad Cyber Prince</b><br>
-  <b>Instagram: @Cyber_ir_Ahmad</b><br>
-  <a href="https://github.com/Ahmad-Cyber-prince">GitHub Profile</a> •
-  <a href="https://github.com/Ahmad-Cyber-prince/Nuclear-DDoS-Weapon">Repository</a>
-</p>
-
-<div align="center">
+⚡ Nuclear DDoS Weapon - The Ultimate Testing Tool ⚡
+Created with ❤️ by Ahmad Cyber Prince
+Instagram: @Cyber_ir_Ahmad
 
 ⭐ If you find this project useful, please give it a star! ⭐
 
-</div>
-```
-
-📁 ساختار نهایی مخزن:
-
-```
-Nuclear-DDoS-Weapon/
-├── NuclearDDoSWeapon.java    # کد اصلی
-├── README.md                 # همین فایل
-├── LICENSE                   # فایل لایسنس
-└── .gitignore               # فایل گیت‌ایگنور
 ```
